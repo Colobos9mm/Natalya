@@ -1,0 +1,3131 @@
+{
+  "67e179c98011d62426c9412d": {
+        "newId": "67e179c98011d62426c9412d",
+        "itemTplToClone": "5b44cd8b86f774503d30cba2",
+        "parentId": "5448e54d4bdc2dcc718b4568",
+        "handbookParentId": "5b5f701386f774093f2ecf0f",
+        "handbookPriceRoubles": 900000,
+        "fleaPriceRoubles": 900000,
+        "locales": {
+            "en": {
+                "name": "Gen Pro 4",
+                "shortName": "Gen P4",
+                "description": "A Specially modified version of the IOTV Gen4 Full Protection armour, using advanced materials. Level 4 Protection."
+            }
+        },
+		"overrideProperties": {
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "379295e8d4ec1a76caae804a",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ecfa618fdddb714eb2",
+                "Filter": [
+                  "674815ecfa618fdddb714eb2",
+                  "674815ec1cdb889b12c31100",
+                  "674815eccc95c1ad849a9b75"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "379295e8d4ec1a76caae804b",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ecfa618fdddb714eb2",
+                "Filter": [
+                  "674815ecfa618fdddb714eb2",
+                  "674815ec1cdb889b12c31100",
+                  "674815eccc95c1ad849a9b75"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Left_side_plate",
+          "_id": "379295e8d4ec1a76caae804c",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ecb438268ce97a5840",
+                "Filter": [
+				  "674815ecb438268ce97a5840",				
+				  "674815ecac9e7d07dd19b3b4",
+				  "674815ec6166071f5c4c0074"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_left_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Right_side_plate",
+          "_id": "379295e8d4ec1a76caae804d",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ecb438268ce97a5840",
+                "Filter": [
+				  "674815ecb438268ce97a5840",				
+				  "674815ecac9e7d07dd19b3b4",
+				  "674815ec6166071f5c4c0074"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_right_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_front",
+          "_id": "379295e8d4ec1a76caae804e",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ec6117b257c6e111c8",
+                "Filter": [
+                  "674815ec6117b257c6e111c8"
+                ],
+                "armorColliders": [
+                  "RibcageLow",
+                  "RibcageUp"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_back",
+          "_id": "379295e8d4ec1a76caae804f",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ec641a9f1bb68bab6d",
+                "Filter": [
+                  "674815ec641a9f1bb68bab6d"
+                ],
+                "armorColliders": [
+                  "SpineDown",
+                  "SpineTop"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_left",
+          "_id": "379295e8d4ec1a76caae804g",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ecdb459a28b668fc79",
+                "Filter": [
+                  "674815ecdb459a28b668fc79"
+                ],
+                "armorColliders": [
+                  "LeftSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "soft_armor_right",
+          "_id": "379295e8d4ec1a76caae804h",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ece3ded39022053fae",
+                "Filter": [
+                  "674815ece3ded39022053fae"
+                ],
+                "armorColliders": [
+                  "RightSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Collar",
+          "_id": "379295e8d4ec1a76caae804i",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ecf20ca8e28a207007",
+                "Filter": [
+                  "674815ecf20ca8e28a207007"
+                ],
+                "armorColliders": [
+                  "NeckFront",
+                  "NeckBack"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Shoulder_l",
+          "_id": "379295e8d4ec1a76caae804j",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815eccd14065e712fcea8",
+                "Filter": [
+                  "674815eccd14065e712fcea8"
+                ],
+                "armorColliders": [
+                  "LeftUpperArm"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Shoulder_r",
+          "_id": "379295e8d4ec1a76caae804k",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ec15d194e288db973c",
+                "Filter": [
+                  "674815ec15d194e288db973c"
+                ],
+                "armorColliders": [
+                  "RightUpperArm"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin",
+          "_id": "379295e8d4ec1a76caae804l",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ecb6ec0fc993474613",
+                "Filter": [
+                  "674815ecb6ec0fc993474613"
+                ],
+                "armorColliders": [
+                  "Pelvis"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin_back",
+          "_id": "379295e8d4ec1a76caae804m",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ecc8b88445f9a13188",
+                "Filter": [
+                  "674815ecc8b88445f9a13188"
+                ],
+                "armorColliders": [
+                  "PelvisBack"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],			
+			"RepairCost": 50,
+			"RepairSpeed": 10,			
+			"Weight": 9,
+            "ExaminedByDefault": false,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0
+        }
+	},
+  "67e179c935563e326180ce7d": {
+        "newId": "67e179c935563e326180ce7d",
+        "itemTplToClone": "5b44cd8b86f774503d30cba2",
+        "parentId": "5448e54d4bdc2dcc718b4568",
+        "handbookParentId": "5b5f701386f774093f2ecf0f",
+        "handbookPriceRoubles": 1100000,
+        "fleaPriceRoubles": 1100000,
+        "locales": {
+            "en": {
+                "name": "Gen Pro 5",
+                "shortName": "Gen P5",
+                "description": "A Specially modified version of the IOTV Gen4 Full Protection armour, using advanced materials. Level 5 Protection."
+            }
+        },
+		"overrideProperties": {
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "379295e8d4ec1a76caae804a",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ec1cdb889b12c31100",
+                "Filter": [
+                  "674815ecfa618fdddb714eb2",
+                  "674815ec1cdb889b12c31100",
+                  "674815eccc95c1ad849a9b75"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "379295e8d4ec1a76caae804b",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ec1cdb889b12c31100",
+                "Filter": [
+                  "674815ecfa618fdddb714eb2",
+                  "674815ec1cdb889b12c31100",
+                  "674815eccc95c1ad849a9b75"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Left_side_plate",
+          "_id": "379295e8d4ec1a76caae804c",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ecac9e7d07dd19b3b4",
+                "Filter": [
+				  "674815ecb438268ce97a5840",				
+				  "674815ecac9e7d07dd19b3b4",
+				  "674815ec6166071f5c4c0074"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_left_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Right_side_plate",
+          "_id": "379295e8d4ec1a76caae804d",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ecac9e7d07dd19b3b4",
+                "Filter": [
+				  "674815ecb438268ce97a5840",				
+				  "674815ecac9e7d07dd19b3b4",
+				  "674815ec6166071f5c4c0074"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_right_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_front",
+          "_id": "379295e8d4ec1a76caae804e",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ec8d8662dfb3fc1a3e",
+                "Filter": [
+                  "674815ec8d8662dfb3fc1a3e"
+                ],
+                "armorColliders": [
+                  "RibcageLow",
+                  "RibcageUp"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_back",
+          "_id": "379295e8d4ec1a76caae804f",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ec31070cbae03365b2",
+                "Filter": [
+                  "674815ec31070cbae03365b2"
+                ],
+                "armorColliders": [
+                  "SpineDown",
+                  "SpineTop"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_left",
+          "_id": "379295e8d4ec1a76caae804g",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ec89e3e2c55c654b08",
+                "Filter": [
+                  "674815ec89e3e2c55c654b08"
+                ],
+                "armorColliders": [
+                  "LeftSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "soft_armor_right",
+          "_id": "379295e8d4ec1a76caae804h",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674815ecdddc59b1d72b2169",
+                "Filter": [
+                  "674815ecdddc59b1d72b2169"
+                ],
+                "armorColliders": [
+                  "RightSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Collar",
+          "_id": "379295e8d4ec1a76caae804i",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf4c77efad1cb48527f",
+                "Filter": [
+                  "67481bf4c77efad1cb48527f"
+                ],
+                "armorColliders": [
+                  "NeckFront",
+                  "NeckBack"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Shoulder_l",
+          "_id": "379295e8d4ec1a76caae804j",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf46fa544e0d0357e7e",
+                "Filter": [
+                  "67481bf46fa544e0d0357e7e"
+                ],
+                "armorColliders": [
+                  "LeftUpperArm"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Shoulder_r",
+          "_id": "379295e8d4ec1a76caae804k",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf474ac349eced3014e",
+                "Filter": [
+                  "67481bf474ac349eced3014e"
+                ],
+                "armorColliders": [
+                  "RightUpperArm"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin",
+          "_id": "379295e8d4ec1a76caae804l",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf4cc9bed5d1db21528",
+                "Filter": [
+                  "67481bf4cc9bed5d1db21528"
+                ],
+                "armorColliders": [
+                  "Pelvis"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin_back",
+          "_id": "379295e8d4ec1a76caae804m",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf4faed67e9d5f30b6e",
+                "Filter": [
+                  "67481bf4faed67e9d5f30b6e"
+                ],
+                "armorColliders": [
+                  "PelvisBack"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],		
+			"RepairCost": 50,
+			"RepairSpeed": 10,			
+			"Weight": 8,
+            "ExaminedByDefault": false,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0
+        }
+	},
+  "67e179c99591ffcd472a270a": {
+        "newId": "67e179c99591ffcd472a270a",
+        "itemTplToClone": "5b44cd8b86f774503d30cba2",
+        "parentId": "5448e54d4bdc2dcc718b4568",
+        "handbookParentId": "5b5f701386f774093f2ecf0f",
+        "handbookPriceRoubles": 1300000,
+        "fleaPriceRoubles": 1300000,
+        "locales": {
+            "en": {
+                "name": "Gen Pro 6",
+                "shortName": "Gen P6",
+                "description": "A Specially modified version of the IOTV Gen4 Full Protection armour, using advanced materials. Level 6 Protection."
+            }
+        },
+		"overrideProperties": {
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "379295e8d4ec1a76caae804a",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815eccc95c1ad849a9b75",
+                "Filter": [
+                  "674815ecfa618fdddb714eb2",
+                  "674815ec1cdb889b12c31100",
+                  "674815eccc95c1ad849a9b75"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "379295e8d4ec1a76caae804b",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815eccc95c1ad849a9b75",
+                "Filter": [
+                  "674815ecfa618fdddb714eb2",
+                  "674815ec1cdb889b12c31100",
+                  "674815eccc95c1ad849a9b75"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Left_side_plate",
+          "_id": "379295e8d4ec1a76caae804c",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ec6166071f5c4c0074",
+                "Filter": [
+				  "674815ecb438268ce97a5840",				
+				  "674815ecac9e7d07dd19b3b4",
+				  "674815ec6166071f5c4c0074"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_left_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Right_side_plate",
+          "_id": "379295e8d4ec1a76caae804d",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "674815ec6166071f5c4c0074",
+                "Filter": [
+				  "674815ecb438268ce97a5840",				
+				  "674815ecac9e7d07dd19b3b4",
+				  "674815ec6166071f5c4c0074"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_right_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_front",
+          "_id": "379295e8d4ec1a76caae804e",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf40d9547b0aedb624a",
+                "Filter": [
+                  "67481bf40d9547b0aedb624a"
+                ],
+                "armorColliders": [
+                  "RibcageLow",
+                  "RibcageUp"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_back",
+          "_id": "379295e8d4ec1a76caae804f",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf4c3dfefbad9cb28ac",
+                "Filter": [
+                  "67481bf4c3dfefbad9cb28ac"
+                ],
+                "armorColliders": [
+                  "SpineDown",
+                  "SpineTop"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_left",
+          "_id": "379295e8d4ec1a76caae804g",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf46267aa430cf15cd4",
+                "Filter": [
+                  "67481bf46267aa430cf15cd4"
+                ],
+                "armorColliders": [
+                  "LeftSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "soft_armor_right",
+          "_id": "379295e8d4ec1a76caae804h",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf48712e0d318e274ce",
+                "Filter": [
+                  "67481bf48712e0d318e274ce"
+                ],
+                "armorColliders": [
+                  "RightSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Collar",
+          "_id": "379295e8d4ec1a76caae804i",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf41c82c08a792913fa",
+                "Filter": [
+                  "67481bf41c82c08a792913fa"
+                ],
+                "armorColliders": [
+                  "NeckFront",
+                  "NeckBack"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Shoulder_l",
+          "_id": "379295e8d4ec1a76caae804j",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf486f9d98bbd700a6c",
+                "Filter": [
+                  "67481bf486f9d98bbd700a6c"
+                ],
+                "armorColliders": [
+                  "LeftUpperArm"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Shoulder_r",
+          "_id": "379295e8d4ec1a76caae804k",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf456c6ae99674319e3",
+                "Filter": [
+                  "67481bf456c6ae99674319e3"
+                ],
+                "armorColliders": [
+                  "RightUpperArm"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin",
+          "_id": "379295e8d4ec1a76caae804l",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf4cc19dfda170096f1",
+                "Filter": [
+                  "67481bf4cc19dfda170096f1"
+                ],
+                "armorColliders": [
+                  "Pelvis"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin_back",
+          "_id": "379295e8d4ec1a76caae804m",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67481bf499015cbb8dc01861",
+                "Filter": [
+                  "67481bf499015cbb8dc01861"
+                ],
+                "armorColliders": [
+                  "PelvisBack"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],	
+			"RepairCost": 50,
+			"RepairSpeed": 10,			
+			"Weight": 7,
+            "ExaminedByDefault": false,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0
+        }
+	},
+  "67497be97777fb29ca1f9610": {
+        "newId": "67497be97777fb29ca1f9610",
+        "itemTplToClone": "5b44cd8b86f774503d30cba2",
+        "parentId": "5448e54d4bdc2dcc718b4568",
+        "handbookParentId": "5b5f701386f774093f2ecf0f",
+        "handbookPriceRoubles": 1500000,
+        "fleaPriceRoubles": 1500000,
+        "locales": {
+            "en": {
+                "name": "Gen Pro 7",
+                "shortName": "Gen P7",
+                "description": "A Specially modified version of the IOTV Gen4 Full Protection armour, using advanced materials. Level 7 Protection."
+            }
+        },
+		"overrideProperties": {
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "379295e8d4ec1a76caae804a",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "67497be972de11201fc07de5",
+                "Filter": [
+                  "674815ecfa618fdddb714eb2",
+                  "674815ec1cdb889b12c31100",
+                  "674815eccc95c1ad849a9b75",
+				  "67497be972de11201fc07de5"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "379295e8d4ec1a76caae804b",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "67497be972de11201fc07de5",
+                "Filter": [
+                  "674815ecfa618fdddb714eb2",
+                  "674815ec1cdb889b12c31100",
+                  "674815eccc95c1ad849a9b75",
+				  "67497be972de11201fc07de5"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Left_side_plate",
+          "_id": "379295e8d4ec1a76caae804c",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "67497be96820c1e9d7a1298e",
+                "Filter": [
+				  "674815ecb438268ce97a5840",				
+				  "674815ecac9e7d07dd19b3b4",
+				  "674815ec6166071f5c4c0074",
+				  "67497be96820c1e9d7a1298e"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_left_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Right_side_plate",
+          "_id": "379295e8d4ec1a76caae804d",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "67497be96820c1e9d7a1298e",
+                "Filter": [
+				  "674815ecb438268ce97a5840",				
+				  "674815ecac9e7d07dd19b3b4",
+				  "674815ec6166071f5c4c0074",
+				  "67497be96820c1e9d7a1298e"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_right_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_front",
+          "_id": "379295e8d4ec1a76caae804e",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674979f7c9fc677e9809b6e1",
+                "Filter": [
+                  "674979f7c9fc677e9809b6e1"
+                ],
+                "armorColliders": [
+                  "RibcageLow",
+                  "RibcageUp"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_back",
+          "_id": "379295e8d4ec1a76caae804f",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674979f7b83f2df3016dd0f9",
+                "Filter": [
+                  "674979f7b83f2df3016dd0f9"
+                ],
+                "armorColliders": [
+                  "SpineDown",
+                  "SpineTop"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_left",
+          "_id": "379295e8d4ec1a76caae804g",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674979f7cc8c12582dbc2d29",
+                "Filter": [
+                  "674979f7cc8c12582dbc2d29"
+                ],
+                "armorColliders": [
+                  "LeftSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "soft_armor_right",
+          "_id": "379295e8d4ec1a76caae804h",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674979f769f1c70869fdde08",
+                "Filter": [
+                  "674979f769f1c70869fdde08"
+                ],
+                "armorColliders": [
+                  "RightSideChestDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Collar",
+          "_id": "379295e8d4ec1a76caae804i",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674979f709a98f10c93675b0",
+                "Filter": [
+                  "674979f709a98f10c93675b0"
+                ],
+                "armorColliders": [
+                  "NeckFront",
+                  "NeckBack"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Shoulder_l",
+          "_id": "379295e8d4ec1a76caae804j",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674979f7c4a67def95e62d4f",
+                "Filter": [
+                  "674979f7c4a67def95e62d4f"
+                ],
+                "armorColliders": [
+                  "LeftUpperArm"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Shoulder_r",
+          "_id": "379295e8d4ec1a76caae804k",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674979f7ac94a1c8cbc229e8",
+                "Filter": [
+                  "674979f7ac94a1c8cbc229e8"
+                ],
+                "armorColliders": [
+                  "RightUpperArm"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin",
+          "_id": "379295e8d4ec1a76caae804l",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674979f7af9547e65d8521b6",
+                "Filter": [
+                  "674979f7af9547e65d8521b6"
+                ],
+                "armorColliders": [
+                  "Pelvis"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin_back",
+          "_id": "379295e8d4ec1a76caae804m",
+          "_parent": "67e179c98011d62426c9412d",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "674979f7340c84f9ff220ac5",
+                "Filter": [
+                  "674979f7340c84f9ff220ac5"
+                ],
+                "armorColliders": [
+                  "PelvisBack"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+			"RepairCost": 50,
+			"RepairSpeed": 10,			
+			"Weight": 6,
+            "ExaminedByDefault": false,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0
+        }
+	},		
+  "674815ecfa618fdddb714eb2": {
+        "newId": "674815ecfa618fdddb714eb2",
+        "itemTplToClone": "656fb21fa0dce000a2020f7c",
+        "parentId": "644120aa86ffbe10ee032b6f",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 40000,
+        "fleaPriceRoubles": 40000,
+        "locales": {
+            "en": {
+                "name": "Level 4 FB Plate",
+                "shortName": "L4 FB Plate",
+                "description": "Level 4 Front/Back Plate."
+            }
+        },
+        "overrideProperties": {
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",			
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 107,
+			"RepairSpeed": 0,
+			"Weight": 1,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ec1cdb889b12c31100": {
+        "newId": "674815ec1cdb889b12c31100",
+        "itemTplToClone": "656fb21fa0dce000a2020f7c",
+        "parentId": "644120aa86ffbe10ee032b6f",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 50000,
+        "fleaPriceRoubles": 50000,
+        "locales": {
+            "en": {
+                "name": "Level 5 FB Plate",
+                "shortName": "L5 FB Plate",
+                "description": "Level 5 Front/Back Plate."
+            }
+        },
+        "overrideProperties": {
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",			
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 107,
+			"RepairSpeed": 0,
+			"Weight": 0.8,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815eccc95c1ad849a9b75": {
+        "newId": "674815eccc95c1ad849a9b75",
+        "itemTplToClone": "656fb21fa0dce000a2020f7c",
+        "parentId": "644120aa86ffbe10ee032b6f",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 60000,
+        "fleaPriceRoubles": 60000,
+        "locales": {
+            "en": {
+                "name": "Level 6 FB Plate",
+                "shortName": "L6 FB Plate",
+                "description": "Level 6 Front/Back Plate."
+            }
+        },
+        "overrideProperties": {
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",			
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 107,
+			"RepairSpeed": 0,
+			"Weight": 0.6,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67497be972de11201fc07de5": {
+        "newId": "67497be972de11201fc07de5",
+        "itemTplToClone": "656fb21fa0dce000a2020f7c",
+        "parentId": "644120aa86ffbe10ee032b6f",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 70000,
+        "fleaPriceRoubles": 70000,
+        "locales": {
+            "en": {
+                "name": "Level 7 FB Plate",
+                "shortName": "L7 FB Plate",
+                "description": "Level 7 Front/Back Plate."
+            }
+        },
+        "overrideProperties": {
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",			
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 107,
+			"RepairSpeed": 0,
+			"Weight": 0.4,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ecb438268ce97a5840": {
+        "newId": "674815ecb438268ce97a5840",
+        "itemTplToClone": "6557458f83942d705f0c4962",
+        "parentId": "644120aa86ffbe10ee032b6f",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 40000,
+        "fleaPriceRoubles": 40000,
+        "locales": {
+            "en": {
+                "name": "Level 4 S Plate",
+                "shortName": "L4 S Plate",
+                "description": "Level 4 Side Plate."
+            }
+        },
+        "overrideProperties": {
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",			
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 107,
+			"RepairSpeed": 0,
+			"Weight": 1,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ecac9e7d07dd19b3b4": {
+        "newId": "674815ecac9e7d07dd19b3b4",
+        "itemTplToClone": "6557458f83942d705f0c4962",
+        "parentId": "644120aa86ffbe10ee032b6f",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 50000,
+        "fleaPriceRoubles": 50000,
+        "locales": {
+            "en": {
+                "name": "Level 5 S Plate",
+                "shortName": "L5 S Plate",
+                "description": "Level 5 Side Plate."
+            }
+        },
+        "overrideProperties": {
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",			
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 107,
+			"RepairSpeed": 0,
+			"Weight": 0.8,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},	
+  "674815ec6166071f5c4c0074": {
+        "newId": "674815ec6166071f5c4c0074",
+        "itemTplToClone": "6557458f83942d705f0c4962",
+        "parentId": "644120aa86ffbe10ee032b6f",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 60000,
+        "fleaPriceRoubles": 60000,
+        "locales": {
+            "en": {
+                "name": "Level 6 S Plate",
+                "shortName": "L6 S Plate",
+                "description": "Level 6 Side Plate."
+            }
+        },
+        "overrideProperties": {
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",			
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 107,
+			"RepairSpeed": 0,
+			"Weight": 0.6,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},	
+  "67497be96820c1e9d7a1298e": {
+        "newId": "67497be96820c1e9d7a1298e",
+        "itemTplToClone": "6557458f83942d705f0c4962",
+        "parentId": "644120aa86ffbe10ee032b6f",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 70000,
+        "fleaPriceRoubles": 70000,
+        "locales": {
+            "en": {
+                "name": "Level 7 S Plate",
+                "shortName": "L7 S Plate",
+                "description": "Level 7 Side Plate."
+            }
+        },
+        "overrideProperties": {
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",			
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 107,
+			"RepairSpeed": 0,
+			"Weight": 0.4,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ec6117b257c6e111c8": {
+        "newId": "674815ec6117b257c6e111c8",
+        "itemTplToClone": "6575c2adefc786cd9101a5d9",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 4 Soft Front",
+                "shortName": "L4 S F",
+                "description": "Level 4 Front Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ec641a9f1bb68bab6d": {
+        "newId": "674815ec641a9f1bb68bab6d",
+        "itemTplToClone": "6575c2be52b7f8c76a05ee25",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 4 Soft Back",
+                "shortName": "L4 S B",
+                "description": "Level 4 Back Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ecdb459a28b668fc79": {
+        "newId": "674815ecdb459a28b668fc79",
+        "itemTplToClone": "6575c2be52b7f8c76a05ee25",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 4 Left Side",
+                "shortName": "L4 L S",
+                "description": "Level 4 Left Side Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ece3ded39022053fae": {
+        "newId": "674815ece3ded39022053fae",
+        "itemTplToClone": "6575c2d852b7f8c76a05ee2d",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 4 Right Side",
+                "shortName": "L4 R S",
+                "description": "Level 4 Right Side Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ecf20ca8e28a207007": {
+        "newId": "674815ecf20ca8e28a207007",
+        "itemTplToClone": "6575c2e4efc786cd9101a5dd",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 4 Collar",
+                "shortName": "L4 Col S",
+                "description": "Level 4 Collar Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815eccd14065e712fcea8": {
+        "newId": "674815eccd14065e712fcea8",
+        "itemTplToClone": "6575c2f7efc786cd9101a5e1",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 4 Left Arm",
+                "shortName": "L4 L A S",
+                "description": "Level 4 Left Arm Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ec15d194e288db973c": {
+        "newId": "674815ec15d194e288db973c",
+        "itemTplToClone": "6575c30352b7f8c76a05ee31",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 4 Right Arm",
+                "shortName": "L4 R A S",
+                "description": "Level 4 Right Arm Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ecb6ec0fc993474613": {
+        "newId": "674815ecb6ec0fc993474613",
+        "itemTplToClone": "6575c31b52b7f8c76a05ee35",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 4 Groin Front",
+                "shortName": "L4 G F S",
+                "description": "Level 4 Groin Front Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ecc8b88445f9a13188": {
+        "newId": "674815ecc8b88445f9a13188",
+        "itemTplToClone": "6575c326c6700bd6b40e8a80",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 4 Groin Back",
+                "shortName": "L4 G B S",
+                "description": "Level 4 Groin Back Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "4",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ec8d8662dfb3fc1a3e": {
+        "newId": "674815ec8d8662dfb3fc1a3e",
+        "itemTplToClone": "6575c2adefc786cd9101a5d9",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 5 Soft Front",
+                "shortName": "L5 S F",
+                "description": "Level 5 Front Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ec31070cbae03365b2": {
+        "newId": "674815ec31070cbae03365b2",
+        "itemTplToClone": "6575c2be52b7f8c76a05ee25",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 5 Soft Back",
+                "shortName": "L5 S B",
+                "description": "Level 5 Back Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ec89e3e2c55c654b08": {
+        "newId": "674815ec89e3e2c55c654b08",
+        "itemTplToClone": "6575c2be52b7f8c76a05ee25",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10,
+        "fleaPriceRoubles": 10,
+        "locales": {
+            "en": {
+                "name": "Level 5 Left Side",
+                "shortName": "L5 L S",
+                "description": "Level 5 Left Side Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674815ecdddc59b1d72b2169": {
+        "newId": "674815ecdddc59b1d72b2169",
+        "itemTplToClone": "6575c2d852b7f8c76a05ee2d",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 5 Right Side",
+                "shortName": "L5 R S",
+                "description": "Level 5 Right Side Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf4c77efad1cb48527f": {
+        "newId": "67481bf4c77efad1cb48527f",
+        "itemTplToClone": "6575c2e4efc786cd9101a5dd",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 5 Collar",
+                "shortName": "L5 Col S",
+                "description": "Level 5 Collar Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf46fa544e0d0357e7e": {
+        "newId": "67481bf46fa544e0d0357e7e",
+        "itemTplToClone": "6575c2f7efc786cd9101a5e1",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 5 Left Arm",
+                "shortName": "L5 L A S",
+                "description": "Level 5 Left Arm Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf474ac349eced3014e": {
+        "newId": "67481bf474ac349eced3014e",
+        "itemTplToClone": "6575c30352b7f8c76a05ee31",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 5 Right Arm",
+                "shortName": "L5 R A S",
+                "description": "Level 5 Right Arm Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf4cc9bed5d1db21528": {
+        "newId": "67481bf4cc9bed5d1db21528",
+        "itemTplToClone": "6575c31b52b7f8c76a05ee35",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 5 Groin Front",
+                "shortName": "L5 G F S",
+                "description": "Level 5 Groin Front Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf4faed67e9d5f30b6e": {
+        "newId": "67481bf4faed67e9d5f30b6e",
+        "itemTplToClone": "6575c326c6700bd6b40e8a80",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 5 Groin Back",
+                "shortName": "L5 G B S",
+                "description": "Level 5 Groin Back Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "5",			
+			"Durability": 45,			
+			"MaxDurability": 45,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf40d9547b0aedb624a": {
+        "newId": "67481bf40d9547b0aedb624a",
+        "itemTplToClone": "6575c2adefc786cd9101a5d9",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 6 Soft Front",
+                "shortName": "L6 S F",
+                "description": "Level 6 Front Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf4c3dfefbad9cb28ac": {
+        "newId": "67481bf4c3dfefbad9cb28ac",
+        "itemTplToClone": "6575c2be52b7f8c76a05ee25",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 6 Soft Back",
+                "shortName": "L6 S B",
+                "description": "Level 6 Back Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf46267aa430cf15cd4": {
+        "newId": "67481bf46267aa430cf15cd4",
+        "itemTplToClone": "6575c2be52b7f8c76a05ee25",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10,
+        "fleaPriceRoubles": 10,
+        "locales": {
+            "en": {
+                "name": "Level 6 Left Side",
+                "shortName": "L6 L S",
+                "description": "Level 6 Left Side Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf48712e0d318e274ce": {
+        "newId": "67481bf48712e0d318e274ce",
+        "itemTplToClone": "6575c2d852b7f8c76a05ee2d",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 6 Right Side",
+                "shortName": "L6 R S",
+                "description": "Level 6 Right Side Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf41c82c08a792913fa": {
+        "newId": "67481bf41c82c08a792913fa",
+        "itemTplToClone": "6575c2e4efc786cd9101a5dd",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 6 Collar",
+                "shortName": "L6 Col S",
+                "description": "Level 6 Collar Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf486f9d98bbd700a6c": {
+        "newId": "67481bf486f9d98bbd700a6c",
+        "itemTplToClone": "6575c2f7efc786cd9101a5e1",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 6 Left Arm",
+                "shortName": "L6 L A S",
+                "description": "Level 6 Left Arm Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf456c6ae99674319e3": {
+        "newId": "67481bf456c6ae99674319e3",
+        "itemTplToClone": "6575c30352b7f8c76a05ee31",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 6 Right Arm",
+                "shortName": "L6 R A S",
+                "description": "Level 6 Right Arm Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf4cc19dfda170096f1": {
+        "newId": "67481bf4cc19dfda170096f1",
+        "itemTplToClone": "6575c31b52b7f8c76a05ee35",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 6 Groin Front",
+                "shortName": "L6 G F S",
+                "description": "Level 6 Groin Front Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67481bf499015cbb8dc01861": {
+        "newId": "67481bf499015cbb8dc01861",
+        "itemTplToClone": "6575c326c6700bd6b40e8a80",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 6 Groin Back",
+                "shortName": "L6 G B S",
+                "description": "Level 6 Groin Back Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 50,			
+			"MaxDurability": 50,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674979f7c9fc677e9809b6e1": {
+        "newId": "674979f7c9fc677e9809b6e1",
+        "itemTplToClone": "6575c2adefc786cd9101a5d9",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 7 Soft Front",
+                "shortName": "L7 S F",
+                "description": "Level 7 Front Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674979f7b83f2df3016dd0f9": {
+        "newId": "674979f7b83f2df3016dd0f9",
+        "itemTplToClone": "6575c2be52b7f8c76a05ee25",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 7 Soft Back",
+                "shortName": "L7 S B",
+                "description": "Level 7 Back Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674979f7cc8c12582dbc2d29": {
+        "newId": "674979f7cc8c12582dbc2d29",
+        "itemTplToClone": "6575c2be52b7f8c76a05ee25",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10,
+        "fleaPriceRoubles": 10,
+        "locales": {
+            "en": {
+                "name": "Level 7 Left Side",
+                "shortName": "L7 L S",
+                "description": "Level 7 Left Side Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674979f769f1c70869fdde08": {
+        "newId": "674979f769f1c70869fdde08",
+        "itemTplToClone": "6575c2d852b7f8c76a05ee2d",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 7 Right Side",
+                "shortName": "L7 R S",
+                "description": "Level 7 Right Side Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674979f709a98f10c93675b0": {
+        "newId": "674979f709a98f10c93675b0",
+        "itemTplToClone": "6575c2e4efc786cd9101a5dd",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 7 Collar",
+                "shortName": "L7 Col S",
+                "description": "Level 7 Collar Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674979f7c4a67def95e62d4f": {
+        "newId": "674979f7c4a67def95e62d4f",
+        "itemTplToClone": "6575c2f7efc786cd9101a5e1",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 7 Left Arm",
+                "shortName": "L7 L A S",
+                "description": "Level 7 Left Arm Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674979f7ac94a1c8cbc229e8": {
+        "newId": "674979f7ac94a1c8cbc229e8",
+        "itemTplToClone": "6575c30352b7f8c76a05ee31",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 7 Right Arm",
+                "shortName": "L7 R A S",
+                "description": "Level 7 Right Arm Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674979f7af9547e65d8521b6": {
+        "newId": "674979f7af9547e65d8521b6",
+        "itemTplToClone": "6575c31b52b7f8c76a05ee35",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 7 Groin Front",
+                "shortName": "L7 G F S",
+                "description": "Level 7 Groin Front Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "674979f7340c84f9ff220ac5": {
+        "newId": "674979f7340c84f9ff220ac5",
+        "itemTplToClone": "6575c326c6700bd6b40e8a80",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Level 7 Groin Back",
+                "shortName": "L7 G B S",
+                "description": "Level 7 Groin Back Soft"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "7",			
+			"Durability": 55,			
+			"MaxDurability": 55,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67e179c97ded878d55fb8d4c": {
+        "newId": "67e179c97ded878d55fb8d4c",
+        "itemTplToClone": "5ac8d6885acfc400180ae7b0",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "handbookPriceRoubles": 250000,
+        "fleaPriceRoubles": 250000,
+        "locales": {
+            "en": {
+                "name": "OPS Core Mk6 Helmet",
+                "shortName": "OPS MK6",
+                "description": "OPS Core Mk6 Helmet With advanced materials."
+            }
+        },
+        "overrideProperties": {
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "5ac8d6885acfc400180ae7b2",
+          "_parent": "67e179c97ded878d55fb8d4c",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+				  "674815ecb107ad4bd99235e4",
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "5ac8d6885acfc400180ae7b3",
+          "_parent": "67e179c97ded878d55fb8d4c",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "674815ec0e1737c294820e25",
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "67e179c97ded878d55fb8d4c",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "67e179c97ded878d55fb8d4c",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_002",
+          "_id": "5c0e6acbd174af02a96252f8",
+          "_parent": "67e179c97ded878d55fb8d4c",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "OPS_CORE_TOP",
+          "_parent": "67e179c97ded878d55fb8d4c",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67e179c918736ce8a8093d5f",
+                "Filter": [
+                  "67e179c918736ce8a8093d5f"
+                ],
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "OPS_CORE_BACK",
+          "_parent": "67e179c97ded878d55fb8d4c",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "67e179c98a64adc341e461ba",
+                "Filter": [
+                  "67e179c98a64adc341e461ba"
+                ],
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+			"Weight": 0.5,
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0			
+        }
+	},
+  "67e179c918736ce8a8093d5f": {
+        "newId": "67e179c918736ce8a8093d5f",
+        "itemTplToClone": "657f8ec5f4c82973640b234c",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "OPS Core Top Soft",
+                "shortName": "OC T S",
+                "description": "OPS Core Top Soft Armour level6"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0	
+        }
+	},
+  "67e179c98a64adc341e461ba": {
+        "newId": "67e179c98a64adc341e461ba",
+        "itemTplToClone": "657f8f10f4c82973640b2350",
+        "parentId": "65649eb40bf0ed77b8044453",
+        "handbookParentId": "6564b96a189fe36f356d177c",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "OPS Core Nape Soft",
+                "shortName": "OC N S",
+                "description": "OPS Core Nape Soft Armour level6"
+            }
+        },
+        "overrideProperties": {
+			"ArmorMaterial": "Aramid",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0		
+        }
+	},
+  "674815ecb107ad4bd99235e4": {
+        "newId": "674815ecb107ad4bd99235e4",
+        "itemTplToClone": "5a16badafcdbcb001865f72d",
+        "parentId": "57bef4c42459772e8d35a53b",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Mk6 Side Armour",
+                "shortName": "Mk6 S A",
+                "description": "An additional armor module for the Ops-Core FAST helmet, protects the ears from shrapnel and small caliber ricochets. Using advanced materials."
+            }
+        },
+        "overrideProperties": {
+			"ConflictingItems": [
+					"5645bcc04bdc2d363b8b4572",
+					"5aa2ba71e5b5b000137b758f",
+					"5b432b965acfc47a8774094e",
+					"5c165d832e2216398b5a7e36",
+					"5e4d34ca86f774264f758330"
+						],			
+			"ArmorMaterial": "UHMWPE",		
+			"armorClass": "6",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0.1	
+        }
+	},
+  "674815ec0e1737c294820e25": {
+        "newId": "674815ec0e1737c294820e25",
+        "itemTplToClone": "5ea058e01dbce517f324b3e2",
+        "parentId": "57bef4c42459772e8d35a53b",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "Tac-Kek Face Mk6",
+                "shortName": "TK F Mk6",
+                "description": "The Tac-Kek Heavy Trooper mask is an additional ballistic module for Ops-Core-type helmets, based on the famous movie universe. This is the way. Using advanced materials."
+            }
+        },
+        "overrideProperties": {
+			"ConflictingItems": [
+					"5c1a1e3f2e221602b66cc4c2",
+					"5bd071d786f7747e707b93a3",
+					"5bd0716d86f774171822ef4b",
+					"5bd06f5d86f77427101ad47c",
+					"5b432c305acfc40019478128",
+					"5e54f79686f7744022011103",
+					"5b4326435acfc433000ed01d",
+					"5e71f6be86f77429f2683c44",
+					"5b432b2f5acfc4771e1c6622",
+					"5b4325355acfc40019478126",
+					"5e54f76986f7740366043752",
+					"5b432b6c5acfc4001a599bf0",
+					"5e71fad086f77422443d4604",
+					"572b7fa524597762b747ce82",
+					"59e7715586f7742ee5789605",
+					"5ab8f85d86f7745cd93a1cf5",
+					"5a16ba61fcdbcb098008728a",
+					"5a16b672fcdbcb001912fa83",
+					"5a16b7e1fcdbcb00165aa6c9",
+					"5aa7e3abe5b5b000171d064d",
+					"5e00cdd986f7747473332240"
+						],			
+			"ArmorMaterial": "UHMWPE",
+			"ArmorType": "Light",		
+			"armorClass": "6",			
+			"Durability": 40,			
+			"MaxDurability": 40,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0.1		
+        }
+	},
+  "674888cc37cd20bcbef66a48": {
+        "newId": "674888cc37cd20bcbef66a48",
+        "itemTplToClone": "639346cc1c8f182ad90c8972",
+        "parentId": "5448e53e4bdc2d60728b4567",
+        "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+        "handbookPriceRoubles": 10000,
+        "fleaPriceRoubles": 10000,
+        "locales": {
+            "en": {
+                "name": "3V Gear Paratus Pack",
+                "shortName": "3V Pack",
+                "description": "3V Gear Paratus 3-Day pack, made using advanced materials."
+            }
+        },
+        "overrideProperties": {
+      "Grids": [
+        {
+          "_id": "68f78b770f9862b81cbd6bfb",
+          "_name": "main",
+          "_parent": "674888cc37cd20bcbef66a48",
+          "_props": {
+            "cellsH": 6,
+            "cellsV": 8,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a",
+                  "5c093db286f7740a1b2617e3",
+                  "5e2af55f86f7746d4159f07c",
+                  "5c0a840b86f7742ffa4f2482",
+                  "5b7c710788a4506dec015957",
+                  "5c127c4486f7745625356c13",
+                  "5aafbcd986f7745e590fff23",
+                  "59fb016586f7746d0d4b423a",
+                  "59fb042886f7746c5005a7b2",
+                  "59fb023c86f7746d0d4b423c",
+                  "5b6d9ce188a4501afc1b2b25"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],		
+			"mousePenalty": 0,
+			"speedPenaltyPercent": 0,
+			"weaponErgonomicPenalty": 0,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 1		
+        }
+	},
+  "674815ec8bf2e801d82c322e": {
+        "newId": "674815ec8bf2e801d82c322e",
+        "itemTplToClone": "603409c80ca681766b6a0fb2",
+        "parentId": "5448e5724bdc2ddf718b4568",
+        "handbookParentId": "5b47574386f77428ca22b331",
+        "handbookPriceRoubles": 75000,
+        "fleaPriceRoubles": 75000,
+        "locales": {
+            "en": {
+                "name": "LBT-69D Condor",
+                "shortName": "LBT Condor",
+                "description": "Heavy-duty ballistic shooting glasses with impact-resistant lenses."
+            }
+        },
+        "overrideProperties": {
+			"BlindnessProtection": 0.7,
+			"Durability": 35,			
+			"MaxDurability": 35,
+			"armorClass": "6",			
+			"weaponErgonomicPenalty": 0,
+			"RepairCost": 50,
+			"RepairSpeed": 0,
+			"Weight": 0.01		
+        }
+	},
+  "6749758d4506d299770ddcb2": {
+        "newId": "6749758d4506d299770ddcb2",
+        "itemTplToClone": "590c678286f77426c9660122",
+        "parentId": "5448f39d4bdc2d0a728b4568",
+        "handbookParentId": "5b47574386f77428ca22b338",
+        "handbookPriceRoubles": 35000,
+        "fleaPriceRoubles": 35000,
+        "locales": {
+            "en": {
+                "name": "IFAKv2 individual first aid kit",
+                "shortName": "IFAKv2",
+                "description": "IFAKv2 is a personal medical kit issued to soldiers in service. The official first aid kit in the U.S. Marine Corps IFAK (Individual First Aid Kit of the United States Marine Corps). The latest, third-generation (gen3), the most well-designed and rich in contents."
+            }
+        },
+        "overrideProperties": {
+      "effects_damage": {
+        "HeavyBleeding": {
+          "cost": 90,
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0,
+          "healthPenaltyMax": 0,
+          "healthPenaltyMin": 0
+        },
+        "LightBleeding": {
+          "cost": 30,
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0,
+          "healthPenaltyMax": 0,
+          "healthPenaltyMin": 0
+        }
+      },
+			"medUseTime": 2,
+			"hpResourceRate": 80,			
+			"MaxHpResource": 600,
+			"Weight": 0.5		
+        }
+	},
+  "674974348af9189fcc136a7e": {
+        "newId": "674974348af9189fcc136a7e",
+        "itemTplToClone": "60098ad7c2240c0fe85c570a",
+        "parentId": "5448f39d4bdc2d0a728b4568",
+        "handbookParentId": "5b47574386f77428ca22b338",
+        "handbookPriceRoubles": 50000,
+        "fleaPriceRoubles": 50000,
+        "locales": {
+            "en": {
+                "name": "AFAKv2 tactical individual first aid kit",
+                "shortName": "AFAKv2",
+                "description": "AFAKv2 (Adaptive First Aid Kit). A more advanced version of the IFAK individual first aid kit. The compact kit provides the individual soldier or law enforcement officer with a necessary lifesaving equipment to effectively treat injuries commonly associated with combat trauma."
+            }
+        },
+        "overrideProperties": {
+      "effects_damage": {
+        "HeavyBleeding": {
+          "cost": 90,
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0,
+          "healthPenaltyMax": 0,
+          "healthPenaltyMin": 0
+        },
+        "LightBleeding": {
+          "cost": 30,
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0,
+          "healthPenaltyMax": 0,
+          "healthPenaltyMin": 0
+        }
+      },
+			"medUseTime": 2,
+			"hpResourceRate": 120,			
+			"MaxHpResource": 800,
+			"Weight": 0.6	
+        }
+	},
+  "67e179c9ff1e5acc5f7af6db": {
+        "newId": "67e179c9ff1e5acc5f7af6db",
+        "itemTplToClone": "5e8488fa988a8701445df1e4",
+        "parentId": "5448f3ac4bdc2dce718b4569",
+        "handbookParentId": "5b47574386f77428ca22b339",
+        "handbookPriceRoubles": 20000,
+        "fleaPriceRoubles": 20000,
+        "locales": {
+            "en": {
+                "name": "CALOK-B hemostatic applicator v2",
+                "shortName": "CALOK-B V2",
+                "description": "The CALOK-B applicator hemostatic agent allows you to inject hemostatic granules through a wound opening directly to the source of bleeding in just a few seconds."
+            }
+        },
+        "overrideProperties": {
+			"MaxHpResource": 6,
+			"Weight": 0.02		
+        }
+	},
+  "67e179c92d755ef8ae908854": {
+        "newId": "67e179c92d755ef8ae908854",
+        "itemTplToClone": "5af0454c86f7746bf20992e8",
+        "parentId": "5448f3ac4bdc2dce718b4569",
+        "handbookParentId": "5b47574386f77428ca22b339",
+        "handbookPriceRoubles": 20000,
+        "fleaPriceRoubles": 20000,
+        "locales": {
+            "en": {
+                "name": "Aluminum splint v2",
+                "shortName": "Alu splint v2",
+                "description": "An aluminum splint for fixing damaged bones in place."
+            }
+        },
+        "overrideProperties": {
+			"MaxHpResource": 10,			
+			"Weight": 0.035		
+        }
+	}	
+  }
