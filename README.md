@@ -1,5 +1,5 @@
 
-# Virtuals Custom Quests v2.5.1
+# Natalya Trader for SPT 4
 
 ### Dependancies
     WTTCommonLib
