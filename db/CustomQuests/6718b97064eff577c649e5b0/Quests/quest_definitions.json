@@ -42,7 +42,8 @@
                 "dynamicLocale": false,
                 "id": "6718b970d3709929f61c1272",
                 "target": [
-                      "Sandbox"
+                      "Sandbox",
+	                  "Sandbox_high"
                 ]
               }
               ]
@@ -6932,4 +6933,5 @@
     "traderId": "6718b97064eff577c649e5b0",
     "type": "Elimination"
   }  
+
 }
