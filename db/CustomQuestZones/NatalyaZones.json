@@ -1,0 +1,652 @@
+[
+  {
+    "ZoneId": "col_gz_carpark",
+    "ZoneName": "col_gz_carpark",
+    "ZoneLocation": "Sandbox_high",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-18.02626",
+      "Y": "23.88736",
+      "Z": "-46.2598",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "1.5",
+      "Z": "1.5",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_gz_placebeacon",
+    "ZoneName": "col_gz_placebeacon",
+    "ZoneLocation": "Sandbox_high",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "219.9404",
+      "Y": "16.59236",
+      "Z": "59.47713",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.75",
+      "Y": "1.75",
+      "Z": "2",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_gz_carpark",
+    "ZoneName": "col_gz_carpark",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-18.11247",
+      "Y": "23.9372",
+      "Z": "-46.12292",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "1.5",
+      "Z": "1.5",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_gz_placebeacon",
+    "ZoneName": "col_gz_placebeacon",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "219.9404",
+      "Y": "16.59236",
+      "Z": "59.47713",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.75",
+      "Y": "1.75",
+      "Z": "2",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_streets_1",
+    "ZoneName": "col_streets_1",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "153.9854",
+      "Y": "3.613587",
+      "Z": "429.2732",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "1",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_streets_2",
+    "ZoneName": "col_streets_2",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "281.7782",
+      "Y": "3.44076",
+      "Z": "490.4266",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "2",
+      "Z": "2",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_inter_1",
+    "ZoneName": "col_inter_1",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "210.9959",
+      "Y": "33.64151",
+      "Z": "214.6444",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.25",
+      "Z": "1.5",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_inter_2",
+    "ZoneName": "col_inter_2",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "270.7003",
+      "Y": "21.71637",
+      "Z": "384.8115",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "1.5",
+      "Z": "1.5",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_cust_1",
+    "ZoneName": "col_cust_1",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "75.17419",
+      "Y": "1.508501",
+      "Z": "-148.047",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "1",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_cust_2",
+    "ZoneName": "col_cust_2",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "349.6055",
+      "Y": "1.374918",
+      "Z": "-184.6484",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "1.5",
+      "Z": "1.5",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_fact_1",
+    "ZoneName": "col_fact_1",
+    "ZoneLocation": "factory4_day",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "21.64731",
+      "Y": "4.534941",
+      "Z": "41.34616",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.5",
+      "Z": "1",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_fact_2",
+    "ZoneName": "col_fact_2",
+    "ZoneLocation": "factory4_day",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "21.44949",
+      "Y": "1.189763",
+      "Z": "56.45308",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.348163",
+      "Z": "0",
+      "W": "0.937434"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.75",
+      "Z": "1.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_fact_1",
+    "ZoneName": "col_fact_1",
+    "ZoneLocation": "factory4_night",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "21.64731",
+      "Y": "4.534941",
+      "Z": "41.34616",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.5",
+      "Z": "1",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_fact_2",
+    "ZoneName": "col_fact_2",
+    "ZoneLocation": "factory4_night",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "21.44949",
+      "Y": "1.189763",
+      "Z": "56.45308",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.348163",
+      "Z": "0",
+      "W": "0.937434"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.75",
+      "Z": "1.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_woods_1",
+    "ZoneName": "col_woods_1",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-348.7867",
+      "Y": "-1.057295",
+      "Z": "341.8344",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.08932889",
+      "Z": "0",
+      "W": "0.9960022"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.25",
+      "Z": "1.75",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_woods_2",
+    "ZoneName": "col_woods_2",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "234.6766",
+      "Y": "-9.134654",
+      "Z": "141.6236",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.75",
+      "Y": "1.5",
+      "Z": "1.75",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_woods_3",
+    "ZoneName": "col_woods_3",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "241.4623",
+      "Y": "-10.47136",
+      "Z": "355.7448",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "1.5",
+      "Z": "1.5",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_reserve_1",
+    "ZoneName": "col_reserve_1",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "236.6435",
+      "Y": "-7.035902",
+      "Z": "-128.2003",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "2.25",
+      "Y": "2",
+      "Z": "2.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_reserve_pillar_1",
+    "ZoneName": "col_reserve_pillar_1",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "152.0983",
+      "Y": "-5.133945",
+      "Z": "-162.1739",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.25",
+      "Z": "1.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_reserve_pillar_2",
+    "ZoneName": "col_reserve_pillar_2",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "158.1486",
+      "Y": "-5.14838",
+      "Z": "-163.9216",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.25",
+      "Z": "1.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_reserve_pillar_3",
+    "ZoneName": "col_reserve_pillar_3",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "163.7542",
+      "Y": "-5.102977",
+      "Z": "-165.3068",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.25",
+      "Z": "1.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_reserve_pillar_4",
+    "ZoneName": "col_reserve_pillar_4",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "169.5293",
+      "Y": "-4.269266",
+      "Z": "-167.0767",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.25",
+      "Z": "1.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_light_1",
+    "ZoneName": "col_light_1",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-309.3011",
+      "Y": "10.71486",
+      "Z": "-161.8349",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "3",
+      "Y": "3",
+      "Z": "3",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_shore_1",
+    "ZoneName": "col_shore_1",
+    "ZoneLocation": "Shoreline",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "356.9248",
+      "Y": "-54.47295",
+      "Z": "-176.0276",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "2",
+      "Z": "2.25",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_shore_2",
+    "ZoneName": "col_shore_2",
+    "ZoneLocation": "Shoreline",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-227.5985",
+      "Y": "-40.28608",
+      "Z": "167.7336",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "1.25",
+      "Z": "1",
+      "W": "0"
+    }
+  },
+  {
+    "ZoneId": "col_shore_3",
+    "ZoneName": "col_shore_3",
+    "ZoneLocation": "Shoreline",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-967.6815",
+      "Y": "-59.58826",
+      "Z": "372.1105",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "3",
+      "Y": "1.75",
+      "Z": "3",
+      "W": "0"
+    }
+  }
+]
